@@ -333,10 +333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   personPrefab: {fileID: 1734903543758822, guid: 51d6f09c4aada4554a972165211005c2, type: 3}
-  populationsize: 10
-  r: 0
-  g: 0
-  b: 0
+  populationSize: 10
 --- !u!1 &1967055573
 GameObject:
   m_ObjectHideFlags: 0
